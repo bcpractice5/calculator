@@ -1,0 +1,123 @@
+export default [
+    {
+        name: "1",
+        position: 13,
+        symbol: "1",
+        fxn:null,
+    },
+    {
+        name: "2",
+        position: 14,
+        symbol: "2",
+        fxn: null,
+    },
+    {
+        name: "3",
+        position: 15,
+        symbol: "3",
+        fxn: null,
+    },
+    {
+        name: "4",
+        position: 9,
+        symbol: "4",
+        fxn: null,
+    },
+    {
+        name: "5",
+        position: 10,
+        symbol: "5",
+        fxn: null,
+    },
+    {
+        name: "6",
+        position: 11,
+        symbol: "6",
+        fxn: null,
+    },
+    {
+        name: "7",
+        position: 5,
+        symbol: "7",
+        fxn: null,
+    },
+    {
+        name: "8",
+        position: 6,
+        symbol: "6",
+        fxn: null,
+    },
+    {
+        name: "9",
+        position: 7,
+        symbol: "9",
+        fxn: null,
+    },
+    {
+        name: "0",
+        position: 18,
+        symbol: "0",
+        fxn: null,
+    },
+    {
+        name: "negate",
+        position: 17,
+        symbol: "+/-",
+        fxn: null,
+    },
+    {
+        name: "point",
+        position: 19,
+        symbol: ".",
+        fxn: null,
+    },
+    {
+        name: "clear",
+        position: 1,
+        symbol: "C",
+        fxn: null,
+    },
+    {
+        name: "parentheses",
+        position: 2,
+        symbol: "()",
+        fxn: null,
+    },
+    {
+        name: "percent",
+        position: 3,
+        symbol: "%",
+        fxn: null,
+    },
+    {
+        name: "divide",
+        position: 4,
+        symbol: "/",
+        fxn: null,
+    },
+    {
+        name: "multiply",
+        position: 8,
+        symbol: "X",
+        fxn: null,
+    },
+    {
+        name: "subtract",
+        position: 12,
+        symbol: "-",
+        fxn: null,
+    },
+    {
+        name: "add",
+        position: 16,
+        symbol: "+",
+        fxn: null,
+    },
+    {
+        name: "evaluate",
+        position: 20,
+        symbol: "=",
+        fxn: null,
+
+    },
+];
